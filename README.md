@@ -16,6 +16,7 @@ Clone the repository:
 bash
 Copy code
 git clone (https://github.com/aadiaz10/Social-Network-APi)
+deployed video: https://www.youtube.com/watch?v=TA9gIztyI-E
 Install dependencies:
 
 bash
